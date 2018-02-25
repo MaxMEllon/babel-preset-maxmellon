@@ -1,7 +1,9 @@
 function buildPreset(context, opts) {
   opts = opts || {}
 
-  if (opts['proposal-class-properties'] === void 0) {
+  opts['proposal-class-properties'] = opts['proposal-class-properties'] || {}
+
+  if (opts['proposal-class-properties'].loose === void 0) {
     opts['proposal-class-properties'].loose = true
   }
 
