@@ -5,6 +5,7 @@
   "repository": "ssh://git@github.com/MaxMEllon/babel-preset-maxmellon.git",
   "author": "MaxMEllon <maxmellon1994@gmail.com>",
   "license": "MIT",
+  "private": false,
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.0.0-beta.40",
     "@babel/plugin-proposal-object-rest-spread": "^7.0.0-beta.40",
@@ -14,3 +15,4 @@
     "@babel/preset-react": "^7.0.0-beta.40"
   }
 }
+
