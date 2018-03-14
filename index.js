@@ -14,6 +14,7 @@ function buildPreset(context, opts) {
         '@babel/env',
         {
           'targets': {
+            'modules': false,
             'browsers': [
               'last 2 versions',
               'safari >= 7'
