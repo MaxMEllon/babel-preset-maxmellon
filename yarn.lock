@@ -173,7 +173,7 @@
     "@babel/helper-remap-async-to-generator" "7.0.0-beta.41"
     "@babel/plugin-syntax-async-generators" "7.0.0-beta.41"
 
-"@babel/plugin-proposal-class-properties@^7.0.0-beta.40":
+"@babel/plugin-proposal-class-properties@^7.0.0-beta.41":
   version "7.0.0-beta.41"
   resolved "https://registry.yarnpkg.com/@babel/plugin-proposal-class-properties/-/plugin-proposal-class-properties-7.0.0-beta.41.tgz#b02d89d773239abe043e3c9424155635f854ca18"
   dependencies:
@@ -181,7 +181,7 @@
     "@babel/helper-plugin-utils" "7.0.0-beta.41"
     "@babel/plugin-syntax-class-properties" "7.0.0-beta.41"
 
-"@babel/plugin-proposal-object-rest-spread@7.0.0-beta.41", "@babel/plugin-proposal-object-rest-spread@^7.0.0-beta.40":
+"@babel/plugin-proposal-object-rest-spread@7.0.0-beta.41", "@babel/plugin-proposal-object-rest-spread@^7.0.0-beta.41":
   version "7.0.0-beta.41"
   resolved "https://registry.yarnpkg.com/@babel/plugin-proposal-object-rest-spread/-/plugin-proposal-object-rest-spread-7.0.0-beta.41.tgz#4c779ce64867f5b51f6a5178128d732573f96b0a"
   dependencies:
@@ -195,14 +195,14 @@
     "@babel/helper-plugin-utils" "7.0.0-beta.41"
     "@babel/plugin-syntax-optional-catch-binding" "7.0.0-beta.41"
 
-"@babel/plugin-proposal-optional-chaining@^7.0.0-beta.40":
+"@babel/plugin-proposal-optional-chaining@^7.0.0-beta.41":
   version "7.0.0-beta.41"
   resolved "https://registry.yarnpkg.com/@babel/plugin-proposal-optional-chaining/-/plugin-proposal-optional-chaining-7.0.0-beta.41.tgz#946f2a4d5f5736dd5fe110f8ccaf768f8edfa54e"
   dependencies:
     "@babel/helper-plugin-utils" "7.0.0-beta.41"
     "@babel/plugin-syntax-optional-chaining" "7.0.0-beta.41"
 
-"@babel/plugin-proposal-pipeline-operator@^7.0.0-beta.40":
+"@babel/plugin-proposal-pipeline-operator@^7.0.0-beta.41":
   version "7.0.0-beta.41"
   resolved "https://registry.yarnpkg.com/@babel/plugin-proposal-pipeline-operator/-/plugin-proposal-pipeline-operator-7.0.0-beta.41.tgz#768273205d7755a946788057036ab292d79466a9"
   dependencies:
@@ -429,7 +429,7 @@
     "@babel/helper-plugin-utils" "7.0.0-beta.41"
     "@babel/plugin-syntax-jsx" "7.0.0-beta.41"
 
-"@babel/plugin-transform-regenerator@7.0.0-beta.41", "@babel/plugin-transform-regenerator@^7.0.0-beta.41":
+"@babel/plugin-transform-regenerator@7.0.0-beta.41":
   version "7.0.0-beta.41"
   resolved "https://registry.yarnpkg.com/@babel/plugin-transform-regenerator/-/plugin-transform-regenerator-7.0.0-beta.41.tgz#1b376823ea0b3b357b4ff605a256cfa001017608"
   dependencies:
@@ -475,7 +475,7 @@
     "@babel/helper-regex" "7.0.0-beta.41"
     regexpu-core "^4.1.3"
 
-"@babel/preset-env@^7.0.0-beta.40":
+"@babel/preset-env@^7.0.0-beta.41":
   version "7.0.0-beta.41"
   resolved "https://registry.yarnpkg.com/@babel/preset-env/-/preset-env-7.0.0-beta.41.tgz#b9638878277eba78659ec75e00c30ac09079d8f0"
   dependencies:
@@ -518,7 +518,7 @@
     invariant "^2.2.2"
     semver "^5.3.0"
 
-"@babel/preset-react@^7.0.0-beta.40":
+"@babel/preset-react@^7.0.0-beta.41":
   version "7.0.0-beta.41"
   resolved "https://registry.yarnpkg.com/@babel/preset-react/-/preset-react-7.0.0-beta.41.tgz#7741496d39933c6d8048c448849db15d27ab7428"
   dependencies:
