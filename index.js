@@ -11,7 +11,7 @@ function buildPreset(context, opts) {
     presets: [
       '@babel/react',
       [
-        '@babel/env',
+        '@babel/preset-env',
         {
           'modules': false,
           'targets': {
