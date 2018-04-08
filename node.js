@@ -13,7 +13,7 @@ function buildPreset(context, opts) {
         '@babel/env',
         {
           'targets': {
-            'node': '8.5'
+            'node': '4.x'
           }
         }
       ]
