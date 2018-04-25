@@ -1,4 +1,11 @@
-export default function buildPreset(context, opts) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = buildPreset;
+
+function buildPreset(context, opts) {
   opts = opts || {};
   opts['proposal-class-properties'] = opts['proposal-class-properties'] || {};
 
