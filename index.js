@@ -16,8 +16,7 @@ function buildPreset(context, opts) {
           'modules': false,
           'targets': {
             'browsers': [
-              'last 2 versions',
-              'safari >= 7'
+              'safari >= 10'
             ]
           }
         }
