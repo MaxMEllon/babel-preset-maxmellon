@@ -1,6 +1,6 @@
 {
   "name": "@maxmellon/babel-preset",
-  "version": "1.1.10",
+  "version": "1.1.12",
   "main": "index.js",
   "repository": "ssh://git@github.com/MaxMEllon/babel-preset-maxmellon.git",
   "author": "MaxMEllon <maxmellon1994@gmail.com>",
@@ -22,4 +22,3 @@
     "@babel/core": "^7.0.0-beta.46"
   }
 }
-
